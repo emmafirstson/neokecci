@@ -622,7 +622,8 @@ footer {
 
   .contact {
     font-size: 12px;
-    padding: 10px 15px;
+    padding: 10px 20px;
+    font-weight: 700px;
   }
 
   .heading {
